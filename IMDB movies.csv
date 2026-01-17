@@ -1,0 +1,48 @@
+movie_id,title,original_title,release_date,budget,revenue,vote_average,vote_count,popularity,director_name,gender,department
+43597,Avatar,Avatar,2009-12-10,237000000,2787965087,7.2,11800,150,"James Cameron",2,Directing
+43598,"Pirates of the Caribbean: At World"s End","Pirates of the Caribbean: At World"s End",2007-05-19,300000000,961000000,6.9,4500,139,"Gore Verbinski",2,Directing
+43599,Spectre,Spectre,2015-10-26,245000000,880674609,6.3,4466,107,"Sam Mendes",2,Directing
+43600,"The Dark Knight Rises","The Dark Knight Rises",2012-07-16,250000000,1084939099,7.6,9106,112,"Christopher Nolan",2,Directing
+43601,"John Carter","John Carter",2012-03-07,260000000,284139100,6.1,2124,43,"Andrew Stanton",2,Directing
+43602,"Spider-Man 3","Spider-Man 3",2007-05-01,258000000,890871626,5.9,3576,115,"Sam Raimi",2,Directing
+43603,Tangled,Tangled,2010-11-24,260000000,591794936,7.4,3330,48,"Byron Howard",2,Directing
+43604,"Avengers: Age of Ultron","Avengers: Age of Ultron",2015-04-22,280000000,1405403694,7.3,6767,134,"Joss Whedon",2,Directing
+43605,"Harry Potter and the Half-Blood Prince","Harry Potter and the Half-Blood Prince",2009-07-07,250000000,933959197,7.4,5293,98,"David Yates",2,Directing
+43607,"Superman Returns","Superman Returns",2006-06-28,270000000,391081192,5.4,1400,57,"Bryan Singer",2,Directing
+43608,"Quantum of Solace","Quantum of Solace",2008-10-30,200000000,586090727,6.1,2965,107,"Marc Forster",2,Directing
+43609,"Pirates of the Caribbean: Dead Man"s Chest","Pirates of the Caribbean: Dead Man"s Chest",2006-06-20,200000000,1065659812,7,5246,145,"Gore Verbinski",2,Directing
+43610,"The Lone Ranger","The Lone Ranger",2013-07-03,255000000,89289910,5.9,2311,49,"Gore Verbinski",2,Directing
+43611,"Man of Steel","Man of Steel",2013-06-12,225000000,662845518,6.5,6359,99,"Zack Snyder",2,Directing
+43612,"The Chronicles of Narnia: Prince Caspian","The Chronicles of Narnia: Prince Caspian",2008-05-15,225000000,419651413,6.3,1630,53,"Andrew Adamson",2,Directing
+43613,"The Avengers","The Avengers",2012-04-25,220000000,1519557910,7.4,11776,144,"Joss Whedon",2,Directing
+43614,"Pirates of the Caribbean: On Stranger Tides","Pirates of the Caribbean: On Stranger Tides",2011-05-14,380000000,1045713802,6.4,4948,135,"Rob Marshall",2,Directing
+43615,"Men in Black 3","Men in Black 3",2012-05-23,225000000,624026776,6.2,4160,52,"Barry Sonnenfeld",2,Directing
+43616,"The Hobbit: The Battle of the Five Armies","The Hobbit: The Battle of the Five Armies",2014-12-10,250000000,956019788,7.1,4760,120,"Peter Jackson",2,Directing
+43617,"The Amazing Spider-Man","The Amazing Spider-Man",2012-06-27,215000000,752215857,6.5,6586,89,"Marc Webb",2,Directing
+43618,"Robin Hood","Robin Hood",2010-05-12,200000000,310669540,6.2,1398,37,"Ridley Scott",2,Directing
+43619,"The Hobbit: The Desolation of Smaug","The Hobbit: The Desolation of Smaug",2013-12-11,250000000,958400000,7.6,4524,94,"Peter Jackson",2,Directing
+43620,"The Golden Compass","The Golden Compass",2007-12-04,180000000,372234864,5.8,1303,42,"Chris Weitz",0,Directing
+43621,"King Kong","King Kong",2005-12-14,207000000,550000000,6.6,2337,61,"Peter Jackson",2,Directing
+43622,Titanic,Titanic,1997-11-18,200000000,1845034188,7.5,7562,100,"James Cameron",2,Directing
+43623,"Captain America: Civil War","Captain America: Civil War",2016-04-27,250000000,1153304495,7.1,7241,198,"Anthony Russo",2,Directing
+43624,Battleship,Battleship,2012-04-11,209000000,303025485,5.5,2114,64,"Peter Berg",2,Directing
+43625,"Jurassic World","Jurassic World",2015-06-09,150000000,1513528810,6.5,8662,418,"Colin Trevorrow",2,Directing
+43626,Skyfall,Skyfall,2012-10-25,200000000,1108561013,6.9,7604,93,"Sam Mendes",2,Directing
+43627,"Spider-Man 2","Spider-Man 2",2004-06-25,200000000,783766341,6.7,4321,35,"Sam Raimi",2,Directing
+43628,"Iron Man 3","Iron Man 3",2013-04-18,200000000,1215439994,6.8,8806,77,"Shane Black",2,Directing
+43629,"Alice in Wonderland","Alice in Wonderland",2010-03-03,200000000,1025491110,6.4,4645,78,"Tim Burton",2,Directing
+43630,"X-Men: The Last Stand","X-Men: The Last Stand",2006-05-24,210000000,459359555,6.3,3525,3,"Brett Ratner",2,Directing
+43631,"Monsters University","Monsters University",2013-06-20,200000000,743559607,7,3528,89,"Dan Scanlon",2,Directing
+43632,"Transformers: Revenge of the Fallen","Transformers: Revenge of the Fallen",2009-06-19,150000000,836297228,6,3138,21,"Michael Bay",2,Directing
+43633,"Transformers: Age of Extinction","Transformers: Age of Extinction",2014-06-25,210000000,1091405097,5.8,3095,116,"Michael Bay",2,Directing
+43634,"Oz: The Great and Powerful","Oz: The Great and Powerful",2013-03-07,200000000,491868548,5.7,3530,46,"Sam Raimi",2,Directing
+43636,"TRON: Legacy","TRON: Legacy",2010-12-10,170000000,400062763,6.3,2841,73,"Joseph Kosinski",2,Directing
+43637,"Cars 2","Cars 2",2011-06-11,200000000,559852396,5.8,2033,49,"John Lasseter",2,Directing
+43638,"Green Lantern","Green Lantern",2011-06-16,200000000,219851172,5.1,2487,51,"Martin Campbell",2,Directing
+43639,"Toy Story 3","Toy Story 3",2010-06-16,200000000,1066969703,7.6,4597,59,"Lee Unkrich",2,Directing
+43640,"Terminator Salvation","Terminator Salvation",2009-05-20,200000000,371353001,5.9,2463,71,McG,2,Directing
+43641,"Furious 7","Furious 7",2015-04-01,190000000,1506249360,7.3,4176,102,"James Wan",2,Directing
+43642,"World War Z","World War Z",2013-06-20,200000000,531865000,6.7,5560,81,"Marc Forster",2,Directing
+43644,"Star Trek Into Darkness","Star Trek Into Darkness",2013-05-05,190000000,467365246,7.4,4418,78,"J.J. Abrams",2,Directing
+43646,"The Great Gatsby","The Great Gatsby",2013-05-10,105000000,351040419,7.3,3769,61,"Baz Luhrmann",2,Directing
+43647,"Prince of Persia: The Sands of Time","Prince of Persia: The Sands of Time",2010-05-19,150000000,335154643,6.2,2317,62,"Mike Newell",2,Directing
